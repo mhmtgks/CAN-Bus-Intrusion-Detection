@@ -6,3 +6,4 @@ You can find the combined datasets and models = https://drive.google.com/drive/f
 - rfc_large_model.joblib is Multi-classification RFC saved model
 - xgb_model_binary.pkl is Binary Classification XGBoost saved model
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15511523.svg)](http://dx.doi.org/10.5281/zenodo.15511523)
